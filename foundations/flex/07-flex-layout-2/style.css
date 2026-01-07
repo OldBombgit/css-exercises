@@ -47,7 +47,6 @@ ul {
 
 .cards {
   display: flex;
-  justify-content: ;
   align-items: flex-start;
   flex-wrap: wrap;
   padding: 48px;
